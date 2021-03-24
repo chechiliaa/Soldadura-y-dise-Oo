@@ -12,3 +12,5 @@ Imagen vectorial:
 ![3](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo.png)
 
 ![50](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo50.png)
+
+![100](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo100.png)
