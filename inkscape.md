@@ -22,3 +22,6 @@
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/adf699f00026b64e5e6b7ca1e8650d4243578509/leoncitOoo.jpeg.svg)
 ##### Pasos para hacerlo:
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/leon%20vertorizao%201.png)
+
+### El gran Papyrus.
+![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/36bed2c14dfc4ea5118d60206ca29598eccf64c3/papyrus.svg)
