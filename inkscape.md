@@ -23,5 +23,8 @@
 ##### Pasos para hacerlo:
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/leon%20vertorizao%201.png)
 
+## Modificación del relleno.
+### [Ryūnosuke Tanaka del anime Haikyuu](https://www.pinterest.co.kr/pin/404690716525236906/)
+
 ### El gran Papyrus.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/36bed2c14dfc4ea5118d60206ca29598eccf64c3/papyrus.svg)
