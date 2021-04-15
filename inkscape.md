@@ -27,4 +27,7 @@
 ### [Ryūnosuke Tanaka del anime Haikyuu](https://www.pinterest.co.kr/pin/404690716525236906/)
 
 ### El gran Papyrus.
+#### Diseño del gran Papyrus.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/36bed2c14dfc4ea5118d60206ca29598eccf64c3/papyrus.svg)
+#### El diseño con linea de corte.
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./198b880b23b1a690f6ea4306fc71d5635b1e164d/papyrus%20con%20linea%20de%20corte.svg)
