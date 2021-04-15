@@ -30,4 +30,4 @@
 #### Diseño del gran Papyrus.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/36bed2c14dfc4ea5118d60206ca29598eccf64c3/papyrus.svg)
 #### El diseño con linea de corte.
-![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./198b880b23b1a690f6ea4306fc71d5635b1e164d/papyrus%20con%20linea%20de%20corte.svg)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./b60805dc40d3cd78b60d0d5652b09aa0dff9d72e/papyrus%20con%20linea%20de%20corte.svg)
