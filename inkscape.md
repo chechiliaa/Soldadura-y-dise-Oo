@@ -31,3 +31,5 @@
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/36bed2c14dfc4ea5118d60206ca29598eccf64c3/papyrus.svg)
 #### El diseño con linea de corte.
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./b60805dc40d3cd78b60d0d5652b09aa0dff9d72e/papyrus%20con%20linea%20de%20corte.svg)
+#### Diseño sin transparencia.
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./a2b6eba739aeff9b4f60dce3cedae0e5de79a82d/papyrus%20con%20linea%20de%20corte%20y%20blanco.svg)
