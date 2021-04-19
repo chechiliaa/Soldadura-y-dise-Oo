@@ -17,7 +17,8 @@ La idea de está práctica era empezar y aprender a útilizar la aplicación de 
 ![100](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo100.png)
 
 ##### 𝖀𝖓 𝖇𝖔𝖓𝖎𝖙𝖔 𝖌𝖆𝖙𝖎𝖙𝖔 𝖗𝖔𝖘𝖆.🦁
-###### 𝕯𝖎𝖇𝖚𝖏𝖔 𝖔𝖗𝖎𝖌𝖎𝖓𝖆𝖑 
+Aquí tenemos otro trabajo para aprender a utilizar Inkscape, está vez sobre el vectorizado. Nuestro tutor nos mandño a vectorizar el dibujo de un león, concretamente un dibujo de Rosa Bonheur. Aquí teneis el dibujo original, mi vectorizado y imagenes donde muestra como lo he hecho paso a paso.
+###### [𝕯𝖎𝖇𝖚𝖏𝖔 𝖔𝖗𝖎𝖌𝖎𝖓𝖆𝖑.](https://content3.cdnprado.net/imagenes/Documentos/imgsem/19/1998/19984271-9cb6-476d-8655-f012e1fec1bf/0468ba4c-65e8-436e-a267-f76147971ea0.jpg)
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpeg)
 ###### 𝖁𝖊𝖈𝖙𝖔𝖗𝖎𝖟𝖆𝖉𝖔.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/adf699f00026b64e5e6b7ca1e8650d4243578509/leoncitOoo.jpeg.svg)
