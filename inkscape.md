@@ -53,5 +53,8 @@ En esta imagen podemos ver (algo borroso) a la máquina haciendo el cortado lás
 
 Y cuando lo limpiamos, ya lo tenemos listo, nuestro precioso diseño.
 
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/papyrus%20bonito.png)
+
+
 
 
