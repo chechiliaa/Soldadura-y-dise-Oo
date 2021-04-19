@@ -1,26 +1,25 @@
-# inkscape y apuntes
+# 𝕴𝖓𝖐𝖘𝖈𝖆𝖕𝖊 𝖞 𝖆𝖕𝖚𝖓𝖙𝖊𝖘.📓
 
-## Ejercicio conceptos
+##𝕴𝖓𝖉𝖎𝖈𝖊.
 
 
-## Rasterización y vectorizado.
+#### 𝕽𝖆𝖘𝖙𝖊𝖗𝖎𝖈𝖆𝖈𝖎𝖔𝖓 𝖞 𝖛𝖊𝖈𝖙𝖔𝖗𝖎𝖟𝖆𝖉𝖔.👾
 
-### Conejito leendoo.
+##### 𝖀𝖓 𝖈𝖔𝖓𝖊𝖏𝖎𝖙𝖔 𝖑𝖊𝖊𝖓𝖉𝖔𝖔𝖔.🐰
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/7b799d953738bf94ff0bcc269393d5aed0ae9967/dibujo.svg)
-#### 3 uwu
+###### ₃.
 ![3](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo.png)
-#### 50 uwu
+###### ₅₀.
 ![50](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo50.png)
-#### 100 uwu
+###### ₁₀₀.
 ![100](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo100.png)
 
-### Un lendo gatito rosa.
-
-#### Dibujo original. 
+##### 𝖀𝖓 𝖇𝖔𝖓𝖎𝖙𝖔 𝖌𝖆𝖙𝖎𝖙𝖔 𝖗𝖔𝖘𝖆.🦁
+###### 𝕯𝖎𝖇𝖚𝖏𝖔 𝖔𝖗𝖎𝖌𝖎𝖓𝖆𝖑 
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpeg)
-#### Vectorizado.
+###### Vectorizado.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/adf699f00026b64e5e6b7ca1e8650d4243578509/leoncitOoo.jpeg.svg)
-##### Pasos para hacerlo:
+###### Pasos para hacerlo:
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/leon%20vertorizao%201.png)
 
 ## Modificación del relleno.
