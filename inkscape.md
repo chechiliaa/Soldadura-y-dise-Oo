@@ -25,10 +25,10 @@
 ##### 𝕸𝖔𝖉𝖎𝖋𝖎𝖈𝖆𝖈𝖎𝖔𝖓 𝖉𝖊𝖑 𝖗𝖊𝖑𝖑𝖊𝖓𝖔..
 ###### [𝕽𝖞𝖚𝖓𝖔𝖘𝖚𝖐𝖊 𝕿𝖆𝖓𝖆𝖐𝖆 𝖉𝖊𝖑 𝖆𝖓𝖎𝖒𝖊 𝕳𝖆𝖎𝖐𝖞𝖚𝖚](https://www.pinterest.co.kr/pin/404690716525236906/)
 
-### El gran Papyrus.
-#### Diseño del gran Papyrus.
+##### 𝕯𝖊𝖘𝖎𝖌𝖓 𝖔𝖋 𝖙𝖍𝖊 𝖌𝖗𝖊𝖆𝖙 𝕻𝖆𝖕𝖞𝖗𝖚𝖘.
+###### 𝕿𝖍𝖊 𝖌𝖗𝖊𝖆𝖙 𝕻𝖆𝖕𝖞𝖗𝖚𝖘.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/36bed2c14dfc4ea5118d60206ca29598eccf64c3/papyrus.svg)
-#### El diseño con linea de corte.
+###### 𝕿𝖍𝖊 𝖉𝖊𝖘𝖎𝖌𝖓 𝖈𝖔𝖓 𝖑𝖎𝖓𝖊𝖆 𝖉𝖊 𝖈𝖔𝖗𝖙𝖊
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./b60805dc40d3cd78b60d0d5652b09aa0dff9d72e/papyrus%20con%20linea%20de%20corte.svg)
-#### Diseño sin transparencia.
+###### 𝕿𝖍𝖊 𝖉𝖊𝖘𝖎𝖌𝖓 𝖘𝖎𝖓 𝖙𝖗𝖆𝖓𝖘𝖕𝖆𝖗𝖊𝖓𝖈𝖎𝖆
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./a2b6eba739aeff9b4f60dce3cedae0e5de79a82d/papyrus%20con%20linea%20de%20corte%20y%20blanco.svg)
