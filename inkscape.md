@@ -17,7 +17,7 @@
 ##### 𝖀𝖓 𝖇𝖔𝖓𝖎𝖙𝖔 𝖌𝖆𝖙𝖎𝖙𝖔 𝖗𝖔𝖘𝖆.🦁
 ###### 𝕯𝖎𝖇𝖚𝖏𝖔 𝖔𝖗𝖎𝖌𝖎𝖓𝖆𝖑 
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpeg)
-###### Vectorizado.
+###### 𝖁𝖊𝖈𝖙𝖔𝖗𝖎𝖟𝖆𝖉𝖔.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/adf699f00026b64e5e6b7ca1e8650d4243578509/leoncitOoo.jpeg.svg)
 ###### Pasos para hacerlo:
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/leon%20vertorizao%201.png)
