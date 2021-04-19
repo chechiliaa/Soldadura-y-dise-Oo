@@ -7,6 +7,7 @@
 ### * [𝕯𝖊𝖘𝖎𝖌𝖓 𝖔𝖋 𝖙𝖍𝖊 𝖌𝖗𝖊𝖆𝖙 𝕻𝖆𝖕𝖞𝖗𝖚𝖘...](https://github.com/chechiliaa/Welding-and-design./blob/main/inkscape.md#%F0%9D%95%AF%F0%9D%96%8A%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%8C%F0%9D%96%93-%F0%9D%96%94%F0%9D%96%8B-%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%8A-%F0%9D%96%8C%F0%9D%96%97%F0%9D%96%8A%F0%9D%96%86%F0%9D%96%99-%F0%9D%95%BB%F0%9D%96%86%F0%9D%96%95%F0%9D%96%9E%F0%9D%96%97%F0%9D%96%9A%F0%9D%96%98)
 
 ##### 𝖀𝖓 𝖈𝖔𝖓𝖊𝖏𝖎𝖙𝖔 𝖑𝖊𝖊𝖓𝖉𝖔𝖔𝖔.🐰
+La idea de está práctica era empezar y aprender a útilizar la aplicación de Inkscape y aprender a exportar y guardar las imagenes en diferentes tamaños. Yo simplemente decidí hacer de forma rápida un conejo, aunque para dibujar Inkscape no sea la mejor aplicación ya que es complicada de manejar, decidí dejarlo así y realizar mi práctica sobre los diferentes tamaños de exportación. 
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/7b799d953738bf94ff0bcc269393d5aed0ae9967/dibujo.svg)
 ###### ₃.
 ![3](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/dibujo.png)
