@@ -39,3 +39,9 @@ Aquí tenemos otro trabajo para aprender a utilizar Inkscape, está vez sobre el
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./b60805dc40d3cd78b60d0d5652b09aa0dff9d72e/papyrus%20con%20linea%20de%20corte.svg)
 ###### 𝕿𝖍𝖊 𝖉𝖊𝖘𝖎𝖌𝖓 𝖘𝖎𝖓 𝖙𝖗𝖆𝖓𝖘𝖕𝖆𝖗𝖊𝖓𝖈𝖎𝖆
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./a2b6eba739aeff9b4f60dce3cedae0e5de79a82d/papyrus%20con%20linea%20de%20corte%20y%20blanco.svg)
+
+##### 𝖁𝖎𝖘𝖎𝖙𝖆 𝖆 𝖑𝖆 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖎𝖉𝖆𝖉.
+El viernes 16 de abril nos separamos en dos grupos y fuímos de visita a la universidad y estuvimos viendo incluso diferentes máquinas de las que hemos hablado y trabajado en clase, y hemos trabajado con una en concreto que es la máquina de corte y grabado con láser.
+
+
+
