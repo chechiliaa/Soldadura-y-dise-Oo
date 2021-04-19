@@ -55,6 +55,10 @@ Y cuando lo limpiamos, ya lo tenemos listo, nuestro precioso diseño.
 
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/papyrus%20bonito.png)
 
+Aquí podemos ver el diseño, alrededor de dos reglas, ya que me gustó tanto el diseño que decidí hacerle una pequeña perforación en una esquina para tenerlo como llavero, entonces nos pusimos a medir de que tamaño lo queríamos y en que posición exacta, para más tarde volver a meter la piececita en la máquina y volver a mandar la información.
+
+![]
+
 
 
 
