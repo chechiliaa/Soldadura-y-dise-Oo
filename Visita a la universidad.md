@@ -14,3 +14,7 @@ Y cuando lo limpiamos, ya lo tenemos listo, nuestro precioso diseño.
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/papyrus%20bonito.png)
 
 Aquí podemos ver el diseño, alrededor de dos reglas, ya que me gustó tanto el diseño que decidí hacerle una pequeña perforación en una esquina para tenerlo como llavero, entonces nos pusimos a medir de que tamaño lo queríamos y en que posición exacta, para más tarde volver a meter la piececita en la máquina y volver a mandar la información.
+
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/modo%20llavero.png)
+
+Como me gustó tanto el resultado (tanto el mío como el de mis compañeros), el tutor nos ofreció hacer otro diseño rápido en los ordenadores del centro, por lo que me puse manos a la obra, haciendo el diseño de dos pequeños llaveros casi iguales, uno para mi y otro para mi mejor amiga, poniendo nuestro apodo y la fecha en la que nos conocimos.
