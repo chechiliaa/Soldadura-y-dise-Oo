@@ -23,7 +23,11 @@ Aquí tenemos otro trabajo para aprender a utilizar Inkscape, está vez sobre el
 ###### 𝖁𝖊𝖈𝖙𝖔𝖗𝖎𝖟𝖆𝖉𝖔.
 ![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/adf699f00026b64e5e6b7ca1e8650d4243578509/leoncitOoo.jpeg.svg)
 ###### ¿𝕮𝖔𝖒𝖔 𝖍𝖆𝖈𝖊𝖗𝖑𝖔? 𝕻𝖆𝖘𝖔 𝖆 𝖕𝖆𝖘𝖔:
-![](https://raw.githubusercontent.com/chechiliaa/Soldadura-y-dise-o/main/leon%20vertorizao%201.png)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/primer%20paso.png)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/segundo%20paso.png)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/tercer%20paso.png)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/cuarto%20paso.png)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/quinto%20paso.png)
 
 ##### 𝕸𝖔𝖉𝖎𝖋𝖎𝖈𝖆𝖈𝖎𝖔𝖓 𝖉𝖊𝖑 𝖗𝖊𝖑𝖑𝖊𝖓𝖔.
 ###### [𝕽𝖞𝖚𝖓𝖔𝖘𝖚𝖐𝖊 𝕿𝖆𝖓𝖆𝖐𝖆 𝖉𝖊𝖑 𝖆𝖓𝖎𝖒𝖊 𝕳𝖆𝖎𝖐𝖞𝖚𝖚](https://www.pinterest.co.kr/pin/404690716525236906/)
