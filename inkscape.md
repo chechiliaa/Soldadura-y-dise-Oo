@@ -40,5 +40,6 @@ Aquí tenemos otro trabajo para aprender a utilizar Inkscape, está vez sobre el
 ###### 𝕿𝖍𝖊 𝖉𝖊𝖘𝖎𝖌𝖓 𝖘𝖎𝖓 𝖙𝖗𝖆𝖓𝖘𝖕𝖆𝖗𝖊𝖓𝖈𝖎𝖆
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./a2b6eba739aeff9b4f60dce3cedae0e5de79a82d/papyrus%20con%20linea%20de%20corte%20y%20blanco.svg)
 
+###### [Visita universidad](https://github.com/chechiliaa/Welding-and-design./blob/main/Visita%20a%20la%20universidad.md)
 
 
