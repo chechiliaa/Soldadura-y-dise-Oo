@@ -18,3 +18,4 @@ Aquí podemos ver el diseño, alrededor de dos reglas, ya que me gustó tanto el
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/modo%20llavero.png)
 
 Como me gustó tanto el resultado (tanto el mío como el de mis compañeros), el tutor nos ofreció hacer otro diseño rápido en los ordenadores del centro, por lo que me puse manos a la obra, haciendo el diseño de dos pequeños llaveros casi iguales, uno para mi y otro para mi mejor amiga, poniendo nuestro apodo y la fecha en la que nos conocimos.
+
