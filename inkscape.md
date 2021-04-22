@@ -32,6 +32,10 @@ Aquí tenemos otro trabajo para aprender a utilizar Inkscape, está vez sobre el
 
 ##### 𝕸𝖔𝖉𝖎𝖋𝖎𝖈𝖆𝖈𝖎𝖔𝖓 𝖉𝖊𝖑 𝖗𝖊𝖑𝖑𝖊𝖓𝖔.💟
 ###### [𝕽𝖞𝖚𝖓𝖔𝖘𝖚𝖐𝖊 𝕿𝖆𝖓𝖆𝖐𝖆 𝖉𝖊𝖑 𝖆𝖓𝖎𝖒𝖊 𝕳𝖆𝖎𝖐𝖞𝖚𝖚](https://www.pinterest.co.kr/pin/404690716525236906/)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/tanaka.jpg)
+##### Tanaka con relleno
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./dae16c749a243dafa0a40b0044ede149d29faac1/tanaka%20relleno.jpg.svg)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/Captura%20de%20pantalla%20de%202021-04-22%2009-54-00.png)
 
 ##### 𝕯𝖊𝖘𝖎𝖌𝖓 𝖔𝖋 𝖙𝖍𝖊 𝖌𝖗𝖊𝖆𝖙 𝕻𝖆𝖕𝖞𝖗𝖚𝖘.🧡
 ###### 𝕿𝖍𝖊 𝖌𝖗𝖊𝖆𝖙 𝕻𝖆𝖕𝖞𝖗𝖚𝖘.
