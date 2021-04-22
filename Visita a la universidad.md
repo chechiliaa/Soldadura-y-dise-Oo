@@ -19,3 +19,12 @@ Aquí podemos ver el diseño, alrededor de dos reglas, ya que me gustó tanto el
 
 Como me gustó tanto el resultado (tanto el mío como el de mis compañeros), el tutor nos ofreció hacer otro diseño rápido en los ordenadores del centro, por lo que me puse manos a la obra, haciendo el diseño de dos pequeños llaveros casi iguales, uno para mi y otro para mi mejor amiga, poniendo nuestro apodo y la fecha en la que nos conocimos.
 
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/1.png)
+
+Ahí se puede apreciar el diseño junto con la linea de corte (aunque pare ver la linea de corte tienes que dijarte muy muy bien, ya que es una linea muy muy fina). Lo subí al repositorio y de ahí nos dirijimos a otro ordenador, el que tiene conexión con la máquina y le mandamos la información y el diseño. Todo empezó a funcionar y la máquina comenzó a hacer el diseño en el tablón de madera.
+
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/2.png)
+
+Después de que el diseó ya quedara grabado y cortado, sacamos los dos llaveros y limpiamos los bordes para no mancharnos. 
+
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/3.png)
