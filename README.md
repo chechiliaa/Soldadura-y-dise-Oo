@@ -9,3 +9,5 @@
 * [Problema 1](https://github.com/chechiliaa/Welding-and-design./blob/main/Examen%20problema%201.md)
 
 * [Problema 2](https://github.com/chechiliaa/Welding-and-design./blob/main/Problema%202.md)
+
+* [Problema 3](https://github.com/chechiliaa/Welding-and-design./blob/main/Problema%203.md)
