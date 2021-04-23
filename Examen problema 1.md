@@ -14,3 +14,14 @@ Ahora a ambos objetos (tanto la imagen vectorizada como el texto) se les a ajust
 
 Tras eso, se ha ajustado el tamaño de la pagina al contenido.
 ![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/pagina%2060x60.png)
+
+Le añadimos 3mm de margen en los 4 lados.
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/margenes%20de%203.png)
+La imagen en .svg:
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./2f9770216253d781282b4aaafc52b29075b5a65a/Problema%201%20juju.jpeg.svg)
+
+Aquí el resultado con 300pp y 100.
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/problema%201%20300.png)
+![](https://raw.githubusercontent.com/chechiliaa/Welding-and-design./main/problema%201%20100.png)
+
+
