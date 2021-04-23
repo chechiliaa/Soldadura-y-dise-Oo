@@ -5,6 +5,9 @@ La máquina fresadora, para trabajar, la punta que se útiliza se le llama "fres
 
 ![](https://ae01.alicdn.com/kf/HTB1PYutOVXXXXXaXpXXq6xXFXXXm/Fresa-fresadora-de-1-16-1-2-pulgadas-fresa-fresadora-HSS-4-cuchillas-CNC-herramientas-fresadora.jpg_q50.jpg)
 
+Como se puede ver, hay de diferentes tamaños.
+Para poder fresar un diseño, ese diseño se necesita que sea en blanco y negro, imagen png y ciertas informaciones de una página llamada [Mods](http://mods.cba.mit.edu/).
+
 ()
 
 ## Imagen que voy a utilizar
