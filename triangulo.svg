@@ -35,16 +35,16 @@
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
      inkscape:cx="23.960774"
-     inkscape:cy="24.929005"
+     inkscape:cy="24.834723"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1352"
-     inkscape:window-height="1023"
-     inkscape:window-x="117"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
      inkscape:window-y="27"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata926">
     <rdf:RDF>
@@ -96,5 +96,23 @@
        inkscape:transform-center-x="0.010883991"
        inkscape:transform-center-y="-1.1481111"
        transform="matrix(1.0707398,0,0,1.2260373,1.4337307,-3.6813892)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+       id="path1510-6"
+       sodipodi:sides="3"
+       sodipodi:cx="3.8291285"
+       sodipodi:cy="8.4457264"
+       sodipodi:r1="3.7810295"
+       sodipodi:r2="1.852538"
+       sodipodi:arg1="-1.5654195"
+       sodipodi:arg2="-0.51822194"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0.009"
+       inkscape:transform-center-x="-0.010883954"
+       inkscape:transform-center-y="1.1481098"
+       transform="matrix(-1.0707398,0,0,-1.2260373,9.5662696,16.681389)"
+       d="M 3.8332446,4.6339459 5.4567127,7.5609632 7.0663934,10.343396 3.8183995,10.317564 0.52885892,10.298614 2.2625312,7.5282047 Z" />
   </g>
 </svg>
